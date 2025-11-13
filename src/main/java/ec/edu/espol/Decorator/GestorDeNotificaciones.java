@@ -1,3 +1,5 @@
+package ec.edu.espol.Decorator;
+
 public class GestorDeNotificaciones {
 	private Notificador notificador;
 

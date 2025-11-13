@@ -1,3 +1,5 @@
+package ec.edu.espol.Decorator;
+
 public class DecoratorWire extends Decorator {
 
 	public DecoratorWire(Notificador notificador) {

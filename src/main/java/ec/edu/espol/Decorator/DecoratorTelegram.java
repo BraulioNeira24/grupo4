@@ -1,3 +1,5 @@
+package ec.edu.espol.Decorator;
+
 public class DecoratorTelegram extends Decorator {
 
 	public DecoratorTelegram(Notificador notificador) {

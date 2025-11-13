@@ -1,3 +1,5 @@
+package ec.edu.espol.Decorator;
+
 public abstract class Decorator extends Notificador {
 	private Notificador wrapee;
 
